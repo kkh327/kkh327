@@ -30,7 +30,7 @@ src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/
 src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/python.svg" />
 
 
-<img align="left" alt="java" width="26x"
+<img align="left" alt="java" width="28x"
 src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/java.svg" />
 
 
